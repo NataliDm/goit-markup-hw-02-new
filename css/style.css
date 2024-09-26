@@ -13,6 +13,7 @@ ol {
   list-style-type: none;
   text-decoration: none;
 }
+a {text-decoration: none;}
 /*header*/
 .logo {
   font-family: "Raleway",sans-serif;
